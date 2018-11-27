@@ -16,7 +16,7 @@ sysinfo.txt
 # Unity3D generated meta files
 *.pidb.meta
 *.pdb.meta
-*.meta
+
 
 # VS/MD solution and project files
 [Ee]xportedObj/
