@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 667be550ee159f5438c54412426d8748
+guid: 3aca8c59ff597984c8480158e051a0ba
 TrueTypeFontImporter:
   externalObjects: {}
   serializedVersion: 4
@@ -8,10 +8,11 @@ TrueTypeFontImporter:
   characterSpacing: 0
   characterPadding: 1
   includeFontData: 1
-  fontName: 18 Khebrat Musamim
+  fontName: Fredoka One
   fontNames:
-  - 18 Khebrat Musamim
-  fallbackFontReferences: []
+  - Fredoka One
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 4506bf6ca285b494ab0993e12703d5e6, type: 3}
   customCharacters: 
   fontRenderingMode: 0
   ascentCalculationMode: 1
